@@ -61,6 +61,3 @@ Once all elements are set up, the application runs using Tkinter’s main event 
 
 # Conclusion
 This **Inventory Management System** is a simple yet powerful tool for tracking inventory efficiently. The GUI makes it easy for users to interact with the database, while MySQL ensures data persistence. The ability to export data further enhances its usability for reporting and analysis.
-
-This project can be expanded with additional features such as **barcode scanning, user authentication, or advanced filtering options** to make it even more robust. 🚀
-
