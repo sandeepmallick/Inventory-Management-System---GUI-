@@ -1,0 +1,54 @@
+# How to Use the Inventory Management System
+
+## Overview
+The **Inventory Management System** is a GUI-based tool designed to help businesses and individuals efficiently track and manage their stock. This guide explains how to use the system step by step and highlights its benefits.
+
+---
+
+# How to Use
+1. Starting the Application
+- Ensure you have **Python 3.x** installed along with **MySQL**.
+- Run the Python script by executing:
+- python inventory_management.py
+- The graphical user interface (GUI) will appear, allowing you to interact with the inventory system.
+
+2. Adding a New Item
+- Enter the product **Name, Price, Quantity**, and select a **Category**.
+- Click the **Generate ID** button to create a unique Item ID.
+- Click the **Save** button to store the record in the database.
+
+3.Updating an Existing Item
+- Select an item from the displayed list.
+- The details will appear in the input fields.
+- Modify the necessary fields and click **Update** to save changes.
+
+4.Deleting an Item
+- Select the item you want to remove.
+- Click the **Delete** button to remove it from the database.
+
+5.Exporting Data to CSV
+- Click the **Export to CSV** button to download a file containing all inventory records.
+- This file can be opened in **Excel** or used for further analysis.
+
+# Why This System is Useful
+1.Saves Time
+- Automates inventory management, reducing manual work.
+
+2.Prevents Errors
+- Ensures accurate tracking of stock levels.
+
+3.Secure Data Storage
+- Stores inventory records safely in a **MySQL database**.
+
+4.Easy Data Export
+- Allows users to generate reports using CSV export.
+
+5.Ideal for Small Businesses
+- Perfect for tracking stock without needing expensive software.
+
+6.Scalability
+- Can be expanded with additional features like barcode scanning and user authentication.
+
+---
+IF ITS NOT RUNING TRY IN TERMINAL  (Pyhton main.py)
+---
