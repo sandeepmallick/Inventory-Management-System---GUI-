@@ -2,7 +2,6 @@ from tkinter import ttk
 from tkinter import *
 from tkinter import messagebox
 import tkinter
-# import numpy as np
 import random
 import pymysql
 import csv
