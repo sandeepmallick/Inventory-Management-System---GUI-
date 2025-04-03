@@ -1,5 +1,4 @@
-# Inventory-Management-System---GUI-
-# Inventory Management System (GUI using Tkinter and MySQL)
+# Inventory Management System (GUI using Tkinter and MySQL and Export The Data Into Excel Also)
 
 # Overview
 This is a **GUI-based Inventory Management System** built using **Python, Tkinter, and MySQL**. The application provides an interactive interface to manage inventory records, making it easy to add, update, delete, select, and export inventory data stored in a MySQL database.
